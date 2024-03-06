@@ -1,0 +1,8 @@
+com\rubypaper\service\LoggingService.class
+com\rubypaper\service\BoardService.class
+com\rubypaper\Controller\BoardController.class
+com\rubypaper\Chapter03Application.class
+com\rubypaper\persistence\BoardDAO.class
+com\rubypaper\domain\BoardVO.class
+com\rubypaper\junit\MyCalc.class
+com\rubypaper\service\BoardServiceImpl.class
